@@ -1,5 +1,5 @@
 _repo: The-Philippine-Islands-1493-1803---Volume-04-of-55--13-Explorations-by-Early-Navigators-Descr__12635
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   commentator:
     agent_name: Bourne, Edward Gaylord
@@ -7,6 +7,9 @@ contributor:
     deathdate: 1908
     gutenberg_agent_id: '5446'
     url: http://www.gutenberg.org/2009/agents/5446
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   editors:
   - agent_name: Robertson, James Alexander
@@ -20,6 +23,8 @@ creator:
     gutenberg_agent_id: '2296'
     url: http://www.gutenberg.org/2009/agents/2296
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12635#The-Philippine-Islands-1493-1803---Volume-04-of-55--13-Explorations-by-Early-Navigators-Descr_
 gutenberg_issued: '2004-06-01'
 gutenberg_type: Text
 identifiers:
